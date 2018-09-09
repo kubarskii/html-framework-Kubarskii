@@ -1,0 +1,46 @@
+nav{
+	border-bottom: 1px solid black;
+}
+.overflow-scroll{
+	overflow: scroll;
+}
+.navigation li{
+	display: inline-block;
+    vertical-align: middle;
+}
+.homework_header{
+	text-align: center;
+	line-height: 30px;
+	font-size: 25px;
+	font-weight: 600;
+	
+}
+.row{	
+	border: 1px solid black;
+	margin-bottom: 2px;
+}
+
+.row div:nth-child(2n+1){
+	background: var(--lightblue);
+}
+.row div:nth-child(2n+2){
+	background: var(--lightgrey);
+}
+.row-flex{
+	border: 1px solid black;
+	margin-bottom: 2px;
+}
+
+.row-flex div:nth-child(2n+1){
+	background: var(--lightblue);
+}
+.row-flex div:nth-child(2n+2){
+	background: var(--lightgrey);
+}
+.x100{
+	width: 100px;
+	height: 100px;
+}
+.height200{
+	height: 200px;
+}
