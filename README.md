@@ -1,5 +1,7 @@
 # html-framework-Kubarskii
-Layout with flot and flex
+Layout with flot and flex,
+
+Файл style.css содержит дополнительные стили, которые не относятся к фреймворку
 ////////////////////////////////////////////////////////////////////////////////////
 
 1.
@@ -17,20 +19,33 @@ Layout with flot and flex
 .col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12
 
 sm - меняет размер при экране 768px
+
 md - меняет размер при экране 992px
+
 lg - - меняет размер при экране 1200px
 
 1 - 1/12 ширины row
+
 2 - 2/12 ширины row
+
 3 - 3/12 ширины row
+
 4 - 4/12 ширины row
+
 5 - 5/12 ширины row
+
 6 - 6/12 ширины row
+
 7 - 7/12 ширины row
+
 8 - 8/12 ширины row
+
 9 - 9/12 ширины row
+
 10 - 10/12 ширины row
+
 11 - 11/12 ширины row
+
 12 - 100% ширины row
 
 .clearfix - фикс для float
